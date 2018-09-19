@@ -1,0 +1,7 @@
+{
+  "name": "saaweb",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
